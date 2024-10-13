@@ -1,0 +1,2 @@
+# -sletme
+Gogle yoneticisi
